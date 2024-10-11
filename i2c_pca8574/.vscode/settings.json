@@ -13,17 +13,5 @@
     ],
     "idf.portWin": "COM3",
     "idf.pythonBinPathWin": "C:\\Users\\User\\.espressif\\python_env\\idf5.3_py3.11_env\\Scripts\\python.exe",
-    "idf.toolsPathWin": "C:\\Users\\User\\.espressif",
-    "C_Cpp.errorSquiggles": "disabled",
-    "files.associations": {
-        "gpio.h": "c",
-        "i2c.h": "c",
-        "esp_log.h": "c",
-        "clk_tree_defs.h": "c",
-        "soc_caps.h": "c",
-        "i2c_slave.h": "c",
-        "stdlib.h": "c",
-        "stdio.h": "c"
-    },
-    "idf.flashType": "UART"
+    "idf.toolsPathWin": "C:\\Users\\User\\.espressif"
 }
